@@ -92,7 +92,7 @@ It is a structured forensic report containing:
 
 Due to GitHub's file size restrictions, the `.E01` forensic image file is hosted externally. You can download it here:
 
-https://drive.google.com/file/d/15b5g3zpDLakJsyyWOWCqFILSOb2QekNZ/view?usp=sharing
+https://drive.google.com/file/d/15b5g3zpDLakJsyyWOWCqFILSOb2QekNZ/view?usp=drive_link
 
 ---
 
